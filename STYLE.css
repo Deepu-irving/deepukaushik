@@ -1,0 +1,104 @@
+.logo{
+    border: 5px solid black;
+    display: inline-flex;
+}
+
+.pic{
+    border: 10px solid black;
+}
+
+.Head{
+    color: darkblue;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: inline;
+}
+
+.word{
+    color: darkorange;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: inline;
+    font-stretch: expanded;
+}
+
+.A1{
+    border: 5px solid red;
+}
+
+.Button{
+    height: 50px;
+    width: 150px;
+    color: black;
+    background-color: aquamarine;
+    text-align: center;
+    border-radius: 12px;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+.Input{
+    height:50px;
+    width: 200px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 4px;
+}
+
+.Button2{
+    height: 50px;
+    width: 150px;
+    color:black;
+    background-color: aquamarine;
+    text-align: center;
+    border-radius: 12px;
+    font-size: medium;
+    font-weight: bolder;  
+}
+
+.Foot{
+    color:blueviolet;
+}
+
+.logo1{
+    border: 10px solid black;
+}
+
+.pic1{
+    border: 10px solid black;
+}
+
+.Intro{
+    color: darkorchid;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: inline;
+    font-stretch: expanded;
+}
+
+.signup{
+    color: darkred;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: inline;
+    font-stretch: expanded;
+
+}
+
+.signin{
+    color: darkgreen;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: inline;
+    font-stretch: expanded;
+
+}
+
+label{
+    color: blue;
+
+}
+
+input{
+    border: solid black;
+}
